@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-My name is Ray, and I am a student studying computer science at The University of Western Ontario.
+# 🌀About Me
+
+My name is Ray, and I am a curently studying computer science at The University of Western Ontario.
 
 - 🔭 I’m currently working on a game to help elementary students improve thier typing skills.
 - 🌱 I’m currently learning opengl and computer graphics in C.
