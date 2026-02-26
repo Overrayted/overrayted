@@ -9,6 +9,12 @@ My name is Ray, and I am a curently studying computer science at The University 
 - 💬 Ask me about the last concert I went to.
 - 🏃‍♂️ Avid golfer and swing sport enthusiest. Im currently training for my first sprint triathalon.
 - 🌐 Take a look at my website to learn more http://rayhanmohamed.com/
+
+## 🛜Socials
+<p align="left">
+<a href"https://www.linkedin.com/in/rayhan-mohamed/">
+  <img alt="Linkedin" title="Check out my Linkedin" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white""/>
+</a>
 <!--
 **Overrayted/overrayted** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
