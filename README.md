@@ -4,8 +4,8 @@
 
 My name is Ray, and I am a curently studying computer science at The University of Western Ontario.
 
-- 🔭 I’m currently working on a game to help elementary students improve thier typing skills.
-- 🌱 I’m currently learning opengl and computer graphics in C.
+- 🔭 I’m currently working building my own language.
+- 🌱 I’m currently learning compilers and computer architecture to build my own 16 bit risc CPU.
 - 💬 Ask me about the last concert I went to.
 - 🏃‍♂️ Avid golfer and swing sport enthusiest. Im currently training for my first sprint triathalon.
 - 🌐 Take a look at my website to learn more http://rayhanmohamed.com/
