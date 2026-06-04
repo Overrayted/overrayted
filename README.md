@@ -15,7 +15,7 @@ My name is Ray, and I am a curently studying computer science at The University 
   <a href="YOUR_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.rayhanmohamed.com">
+  <a href="https://www.rayhanmohamed.com/#projects">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:rayhan24k@gmail.com">
