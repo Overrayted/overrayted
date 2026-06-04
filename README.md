@@ -7,7 +7,7 @@ My name is Ray, and I am a curently studying computer science at The University 
 - 🔭 I’m currently working through crafting interpreters.
 - 🌱 I’m currently learning more about compilers and computer architecture.
 - 💬 Ask me about the last concert I went to.
-- 🏃‍♂️ Im currently training for my first sprint triathalon. Avid golfer and swing sport enthusiest.
+- 🏃‍♂️ Im currently training for my first sprint triathalon. Avid golfer and sports enthusiest.
 - 🌐 Take a look at my website to learn more http://rayhanmohamed.com/
 
 ## ☎️ Contact Me
