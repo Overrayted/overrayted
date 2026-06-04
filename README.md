@@ -26,15 +26,6 @@ My name is Ray, and I am a curently studying computer science at The University 
   </a>
 </p>
 
-## 🎧 Currently Playing
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/spotify" />
-</p>
-
-<p align="center">
-  If nothing shows, I'm probably coding to techno or lo-fi.
-</p>
-<!--
 **Overrayted/overrayted** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
