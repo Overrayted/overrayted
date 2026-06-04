@@ -25,6 +25,14 @@ My name is Ray, and I am a curently studying computer science at The University 
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
   </a>
 </p>
+
+## 🎧 Currently Playing
+
+<p align="center">
+  <a href="https://open.spotify.com/user/rayhan24k">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=rayhan24k&cover_image=true&theme=default&show_offline=true&background_color=121212" />
+  </a>
+</p>
 <!--
 **Overrayted/overrayted** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
