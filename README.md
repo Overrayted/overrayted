@@ -10,7 +10,7 @@ My name is Ray, and I am a curently studying computer science at The University 
 - 🏃‍♂️ Avid golfer and swing sport enthusiest. Im currently training for my first sprint triathalon.
 - 🌐 Take a look at my website to learn more http://rayhanmohamed.com/
 
-## 🛜Socials
+## ☎️ Contact Me
 <p align="center">
   <a href="YOUR_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
